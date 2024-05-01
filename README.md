@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan Lagneaux</h1>
-<h3 align="center">A passionate fullstack* developer from Brest (France)</h3>
+<h3 align="center">A passionate fullstack* developer and trainer from Brest (France)</h3>
 
 - 🔭 I’m currently working at **Zenika**
 
