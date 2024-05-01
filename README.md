@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Zenika**
 
-- 💬 Ask me about **Kotlin, Android, Spring/Quarkus/Ktor, Git, Solidity**
+- 💬 Ask me about **Kotlin, KMP, Android, Spring/Quarkus/Ktor, Git, Solidity**
 
 - 📫 How to reach me **lagneaux.j@gmail.com**
 
